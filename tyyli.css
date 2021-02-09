@@ -1,5 +1,4 @@
-div {
-  border: 2pix solid 
+<style>
 body { 
   background: black;
   text: white;
@@ -11,4 +10,5 @@ p {
   font-size: 12px
     text: green;
 }
+</style>
 
